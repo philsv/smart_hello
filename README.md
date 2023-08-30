@@ -1,2 +1,3 @@
-# smart_contract_technical_test
+# Smart Contract Technical Test
+
 Simple Smart Contract Web Application using sCrypt
