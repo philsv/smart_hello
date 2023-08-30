@@ -1,3 +1,3 @@
 # Smart Contract Technical Test
 
-Simple Smart Contract Web Application using sCrypt
+A Smart Contract Web App using sCrypt
